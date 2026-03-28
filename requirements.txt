@@ -1,0 +1,5 @@
+# AI Scam Shield — Requirements
+openai>=1.0.0
+googletrans==4.0.0-rc1
+pytesseract
+Pillow
